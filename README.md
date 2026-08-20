@@ -5,6 +5,7 @@ Original repository: https://github.com/OpenAssessItToolkit/accessible_u
 
 ## Index of pages
 
-- [Before](https://openassessittoolkit.github.io/accessible_u/before_u.html)
-- [After](https://openassessittoolkit.github.io/accessible_u/after_u.html)
-- [List of issues](https://openassessittoolkit.github.io/accessible_u/issues.html)
+- [Homepage](https://squidslab.github.io/accessible_university/)
+- [Before](https://squidslab.github.io/accessible_university/before_u.html)
+- [After](https://squidslab.github.io/accessible_university/after_u.html)
+- [List of issues](https://squidslab.github.io/accessible_university/issues.html)
